@@ -23,6 +23,7 @@ Our research team includes:
 - [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) (Professor in Computer Science at UBC)
 - [Mathias Lécuyer](http://mathias.lecuyer.me/) (Professor in Computer Science at UBC)
 - [Jean-Francois Rajotte](https://scholar.google.com/citations?user=rDYYdUUAAAAJ&hl=en) (Resident Data Scientist at UBC)
+- [Xiaoxiao Li] (https://xxlya.github.io/xiaoxiao/) (Professor in Electrical and Computer Engineering)
 
 We work with a fantastic group of students:
 
@@ -30,6 +31,7 @@ We work with a fantastic group of students:
 - Kalli Leung (Directed studies, USRA'20)
 - Mishaal Kazmi (CS PhD-Track)
 - Jed Yeo (Engineering Physics)
+- Chun-Yin Huang (ECE PhD)
 
 Student alumni:
 
